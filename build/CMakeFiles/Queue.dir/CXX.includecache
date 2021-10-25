@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/Desktop/git projects/Queue/Queue.h
+iostream
+-
+double_linked_list.h
+C:/Users/user/Desktop/git projects/Queue/double_linked_list.h
+
+C:/Users/user/Desktop/git projects/Queue/double_linked_list.h
+iostream
+-
+assert.h
+C:/Users/user/Desktop/git projects/Queue/assert.h
+
+C:/Users/user/Desktop/git projects/Queue/main.cpp
+iostream
+-
+Queue.h
+C:/Users/user/Desktop/git projects/Queue/Queue.h
+
